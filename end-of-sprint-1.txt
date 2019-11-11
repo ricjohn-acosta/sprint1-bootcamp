@@ -1,2 +1,0 @@
-<h1>Reflections</h1>
-T1 - Command line primer
