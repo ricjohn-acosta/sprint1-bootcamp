@@ -1,0 +1,90 @@
+[33mcommit cac50ab372e18eea6133db96f7d5cab584b4362a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: ricjohn-acosta <ricjohn.genoguin@gmail.com>
+Date:   Mon Nov 11 17:18:03 2019 +1300
+
+    edited
+
+ end-of-sprint-1.md | 14 [32m++++++++++++++[m
+ 1 file changed, 14 insertions(+)
+
+[33mcommit f029040a553a30bb14d807eb9c6aaec879979da9[m
+Author: Ricjohn <ricjohn.genoguin@gmail.com>
+Date:   Mon Nov 11 16:47:06 2019 +1300
+
+    Update end-of-sprint-1.md
+
+ end-of-sprint-1.md | 8 [32m++++[m[31m----[m
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+
+[33mcommit 9c810ec07c56618c245db0f3ff1013cb30d43e8c[m
+Author: Ricjohn <ricjohn.genoguin@gmail.com>
+Date:   Mon Nov 11 16:46:42 2019 +1300
+
+    Update end-of-sprint-1.md
+
+ end-of-sprint-1.md | 12 [32m++++++[m[31m------[m
+ 1 file changed, 6 insertions(+), 6 deletions(-)
+
+[33mcommit 5a15dc56278e5c1ef4d90dfb188ca79ed7fff774[m
+Author: Ricjohn <ricjohn.genoguin@gmail.com>
+Date:   Mon Nov 11 16:45:38 2019 +1300
+
+    Create end-of-sprint-1.md
+
+ end-of-sprint-1.md | 19 [32m+++++++++++++++++++[m
+ 1 file changed, 19 insertions(+)
+
+[33mcommit e013ae15661c234e6e9b01bf6262016518e8c632[m
+Author: Ricjohn <ricjohn.genoguin@gmail.com>
+Date:   Mon Nov 11 16:39:57 2019 +1300
+
+    Delete end-of-sprint-1.txt
+
+ end-of-sprint-1.txt | 2 [31m--[m
+ 1 file changed, 2 deletions(-)
+
+[33mcommit a07f20a818b3d1dc7174b07fb97ef7c9992bfc78[m
+Author: Ricjohn <ricjohn.genoguin@gmail.com>
+Date:   Mon Nov 11 16:39:18 2019 +1300
+
+    Update and rename README.txt to end-of-sprint-1.txt
+
+ README.txt          | 8 [31m--------[m
+ end-of-sprint-1.txt | 2 [32m++[m
+ 2 files changed, 2 insertions(+), 8 deletions(-)
+
+[33mcommit 45c42322a1465235380788d69f873532b9be467e[m
+Merge: 05c5e3a 933acdb
+Author: Ricjohn <ricjohn.genoguin@gmail.com>
+Date:   Mon Nov 11 16:04:52 2019 +1300
+
+    Merge pull request #1 from ricjohn-acosta/testing-branch
+    
+    testing branches
+
+[33mcommit 933acdb964057a4556d09d2a62a572086229bf29[m[33m ([m[1;31morigin/testing-branch[m[33m)[m
+Author: ricjohn-acosta <ricjohn.genoguin@gmail.com>
+Date:   Mon Nov 11 16:02:57 2019 +1300
+
+    testing branches
+
+ README.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 05c5e3a5d923047ea258d42e135050bf717c2b8a[m
+Author: Ricjohn <ricjohn.genoguin@gmail.com>
+Date:   Mon Nov 11 15:50:20 2019 +1300
+
+    Update README.txt
+
+ README.txt | 4 [32m+++[m[31m-[m
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+[33mcommit 286c09183b4b0773b599d5c77b1be4422be0c562[m
+Author: ricjohn-acosta <ricjohn.genoguin@gmail.com>
+Date:   Mon Nov 11 15:48:21 2019 +1300
+
+    initial commit
+
+ README.txt | 5 [32m+++++[m
+ 1 file changed, 5 insertions(+)

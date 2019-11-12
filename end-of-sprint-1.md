@@ -31,3 +31,14 @@
 
 <b>Did you stick to the timebox suggestions? If not, why not?</b>
 - I have some experience regarding the topic. It served as a nice refresher and I felt like the time I spent on T2 is adequate.
+
+<h3>T3 - Git</h3>
+
+<b>What is a GitHub work flow</b>
+- The process of making a new branch, committing in said branch, requesting a pull and compare two branches and, finally, merging.
+
+<b>What did you notice about your own learning? What did you do when you were confused or blocked?</b>
+- Self-learning is doing good so far. I usually just use google if I encounter any problems.
+
+<b>Is there anything you'd do differently if you were to repeat the learning exploration again?</b>
+- I am pretty satisfied with the learning that I have done.
