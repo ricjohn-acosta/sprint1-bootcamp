@@ -44,5 +44,17 @@
 - I am pretty satisfied with the learning that I have done.
 
 <h3>T4 - Track and commit</h3>
+
 - Staging = The process of getting the files ready for a commit. Same as saying getting files up to the stage for a "performance".
 - Commit = The process of changing the contents of a file. Once files are on the stage, it is ready to present its "performance".
+
+<h4>T5 - Branch, pull and merge</h5>
+
+<b>What is Master?</b>
+- The master branch is the main branch that contains a version of a project that would be considered the most up-to-date and, potentially, free of errors.
+
+<b>Why create a branch</b>
+- Creating a branch allows the programmer to test out new features/functionalities without directly affecting the master branch.
+
+<b>Do the concepts introduced feel intuitive or difficult to understand?</b>
+- Everything feels simple and straight forward so far.
