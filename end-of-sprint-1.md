@@ -43,4 +43,6 @@
 <b>Is there anything you'd do differently if you were to repeat the learning exploration again?</b>
 - I am pretty satisfied with the learning that I have done.
 
-test2
+<h3>T4 - Track and commit</h3>
+- Staging = The process of getting the files ready for a commit. Same as saying getting files up to the stage for a "performance".
+- Commit = The process of changing the contents of a file. Once files are on the stage, it is ready to present its "performance".
